@@ -5,6 +5,7 @@
 
 # Local Python environments and notebook cache
 .venv/
+.venv-*/
 venv/
 env/
 __pycache__/
